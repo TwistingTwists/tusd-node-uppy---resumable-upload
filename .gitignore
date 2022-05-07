@@ -1,5 +1,5 @@
-./uppyreact/
-./uppyreactjs/
+./uppyreact/*
+./uppyreactjs/*
 
 node_modules
 
