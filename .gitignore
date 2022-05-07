@@ -1,0 +1,6 @@
+./uppyreact/
+./uppyreactjs/
+
+node_modules
+
+tusnodeserver/files/*
